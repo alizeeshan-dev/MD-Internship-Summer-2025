@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "demouser",
+    "password": "root",
+    "database": "week2_test",
+    "host": "5.79.123.17",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "demouser",
+    "password": "root",
+    "database": "week2_test",
+    "host": "5.79.123.17",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "demouser",
+    "password": "root",
+    "database": "week2_test",
+    "host": "5.79.123.17",
+    "dialect": "mysql"
+  }
+}
