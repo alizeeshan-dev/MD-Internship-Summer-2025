@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "hanzalah",
+    "email": "hanzalah@gmail.com",
+    "password": "1234343"
+  },
+  {
+    "id": 2,
+    "username": "ali",
+    "email": "ali.zeesh75@gmail.com",
+    "password": "aliali123"
+  },
+  {
+    "id": 3,
+    "username": "alitest",
+    "email": "ali.zeeshyest75@gmail.com",
+    "password": "aliali123"
+  },
+  {
+    "id": 4,
+    "username": "alitest",
+    "email": "ali.zeeshyest75@gmail.com",
+    "password": "aliali123"
+  },
+  {
+    "id": 5,
+    "username": "zeeshan",
+    "email": "zeeshan@gmail.com",
+    "password": "mypassword123"
+  },
+  {
+    "id": 6,
+    "username": "zeeshan",
+    "email": "zeeshan@gmail.com",
+    "password": "mypassword123"
+  },
+  {
+    "id": 7,
+    "username": "zeeshan",
+    "email": "zeeshan@example.com",
+    "password": "mypassword123"
+  }
+]
