@@ -65,4 +65,3 @@ Built a fully functional API to manage user data using an array as the data stor
 - Node.js
 - npm
 - Postman or browser for testing endpoints
-- 
